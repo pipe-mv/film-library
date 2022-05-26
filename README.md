@@ -15,7 +15,7 @@ This is a repo that houses the base code for a React.js film application. By the
 ### Create a .env file inside the main directory
 
 1. Create a .env file just like .env-sample file
-2. Take your Application ID and Application Key from Edamam (https://www.themoviedb.org) website (sign up for the API and then you will get the necessary id and key for the .env) and fill out the variable with the name REACT_APP_TMDB_API_KEY in the .env file.
+2. Take your Application Key from (https://www.themoviedb.org) website (sign up for the API and then you will get the necessary id and key for the .env) and fill out the variable with the name REACT_APP_TMDB_API_KEY in the .env file.
 
 Then run:
 
