@@ -1,6 +1,6 @@
 # React Film Lab
 
-You can check out the link for this project: https://pipe-mv.github.io/film-details/
+You can check out the link for this project: https://pipe-mv.github.io/film-library/
 
 ### What is this?
 
